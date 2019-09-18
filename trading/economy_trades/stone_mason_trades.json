@@ -313,7 +313,7 @@
           "wants": [
             {
               "item": "minecraft:emerald",
-              "quantity": 1,
+              "quantity": 16,
               "price_multiplier": 0.05
             }
           ],
@@ -321,16 +321,19 @@
             {
               "choice": [
                 {
-                  "item": "minecraft:quartz_block:0"
+                  "item": "minecraft:quartz_block:0",
+                  "quantity":16
+                  
                 },
                 {
-                  "item": "minecraft:quartz_block:2"
+                  "item": "minecraft:quartz_block:2",
+                  "quantity": 16
                 }
               ]
             }
           ],
           "trader_exp": 0,
-          "max_uses": 5,
+          "max_uses": 1,
           "reward_exp": true
         }
       ]

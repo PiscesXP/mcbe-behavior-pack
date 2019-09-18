@@ -184,18 +184,18 @@
               "wants": [
                 {
                   "item": "minecraft:melon",
-                  "quantity": 4,
+                  "quantity": 64,
                   "price_multiplier": 0.05
                 }
               ],
               "gives": [
                 {
                   "item": "minecraft:emerald",
-                  "quantity": 1
+                  "quantity": 16
                 }
               ],
-              "trader_exp": 10,
-              "max_uses": 5,
+              "trader_exp": 160,
+              "max_uses": 1,
               "reward_exp": true
             }
           ]
